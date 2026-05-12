@@ -40,6 +40,7 @@
 | [NexaCloud](https://website-demos-iota.vercel.app/nexacloud/) | SaaS / AI 科技 | 深色主题 · CSS 渐变动效 · Dashboard 模拟 |
 | [华锐精密](https://website-demos-iota.vercel.app/huarui/) | 精密制造 | 多页面架构 · 产品中心 · 加工能力参数表 |
 | [BridgePoint](https://website-demos-iota.vercel.app/bridgepoint/) | 商务咨询 | 中英双语 · hreflang SEO · 极简高端风 |
+| [GlobalPrecision](https://website-demos-iota.vercel.app/globalprecision/) | 外贸制造 | 全英文 · 西方商务风 · 数字动画 · 询价表单 |
 | [NexaTech](https://website-demos-iota.vercel.app/nexatech/) | 数字化转型 | 滚动动画 · 视差背景 · 触控轮播 · JSON-LD |
 | [Flavor Theme](https://github.com/chloeeeyan/flavor-starter-theme) | WordPress 主题 | CPT · Customizer API · AJAX · i18n 国际化 |
 
