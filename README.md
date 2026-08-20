@@ -1,53 +1,35 @@
 ## Hi, I'm Chloe 👋
 
-全栈开发者，专注 AI 应用开发与企业级网站搭建。
-
-### 🛠 技术栈
-
-**前端** · Next.js / React / TypeScript / HTML5 / CSS3 · 响应式设计 · React Flow
-
-**后端** · Python / FastAPI / Node.js / Express · RESTful API · WebSocket / SSE 实时通信
-
-**AI / 数据** · OpenAI API · RAG / 向量检索 · LangChain · ChromaDB · Pandas / Matplotlib
-
-**数据库** · PostgreSQL / MySQL / MongoDB · Drizzle ORM / Prisma · Mongoose
-
-**DevOps** · Git / Docker / Vercel / WordPress
+数据运营，专注业务数据分析、Excel 自动化与 AI Agent 工程。用数据讲故事，用工程手段把重复工作变成自动化流水线。
 
 ---
 
-### 🚀 全栈项目
+### 🔥 代表作品
 
-| 项目 | 技术栈 | 简介 |
-|------|--------|------|
-| [WriteFlow AI](https://github.com/chloeeeyan/writeflow-ai) | Next.js 14 · OpenAI · SSE · PostgreSQL | AI 写作助手 SaaS，模板化内容生成，支持实时流式输出 |
-| [AgentFlow](https://github.com/chloeeeyan/agentflow) | React Flow · FastAPI · WebSocket · Python | AI Agent 可视化编排平台，拖拽式构建多步骤智能工作流 |
-| [DocMind RAG](https://github.com/chloeeeyan/docmind-rag) | Next.js · ChromaDB · OpenAI Embeddings · SSE | 文档知识库问答系统，上传文档后智能检索 + 引用溯源 |
-| [CloudPulse SaaS](https://github.com/chloeeeyan/cloudpulse-saas) | Node.js · Express · MongoDB · JWT · Stripe | 多租户 SaaS 后端，完整 RBAC 权限 + 订阅计费 + API 限流 |
+#### [Agent Engineering Playbook](https://github.com/chloeeeyan/agent-engineering-playbook)
 
-### 📊 数据分析
+如何把通用 AI 助手调教成领域专用、自我纠错的工作型 Agent。基于 4 个月+ 生产环境实战迭代沉淀的系统方法论：角色锚定、规则分层、事实门控验证、四层记忆体系、12 条反模式。适用于 Claude Code / Cursor / Codex 等任何 Agent 运行时。
 
-| 项目 | 技术栈 | 简介 |
-|------|--------|------|
-| [Data Analysis Portfolio](https://github.com/chloeeeyan/data-analysis-portfolio) | Python · Pandas · SciPy · Matplotlib · Seaborn | 含问卷因子分析、生存分析、中介效应分析三个完整项目 |
+#### [Excel Automation Cookbook](https://github.com/chloeeeyan/excel-automation-cookbook)
 
-### 🎨 企业官网作品集
+Python Windows Excel 自动化实战手册，21 条经过生产验证的 recipe：openpyxl 陷阱、XML 层手术（x14 条件格式保护）、xlwings/COM 进程管理、编码生存、公式修复。每条含最小复现 + 根因 + 修复方案。14/21 条跨平台可用。
 
-独立完成的 toB 企业官网 Demo，纯手写代码，覆盖不同行业风格：
+#### [Data Analysis Portfolio](https://github.com/chloeeeyan/data-analysis-portfolio)
 
-| 项目 | 行业 | 亮点 |
-|------|------|------|
-| [NexaCloud](https://website-demos-iota.vercel.app/nexacloud/) | SaaS / AI 科技 | 深色主题 · CSS 渐变动效 · Dashboard 模拟 |
-| [华锐精密](https://website-demos-iota.vercel.app/huarui/) | 精密制造 | 多页面架构 · 产品中心 · 加工能力参数表 |
-| [BridgePoint](https://website-demos-iota.vercel.app/bridgepoint/) | 商务咨询 | 中英双语 · hreflang SEO · 极简高端风 |
-| [GlobalPrecision](https://website-demos-iota.vercel.app/globalprecision/) | 外贸制造 | 全英文 · 西方商务风 · 数字动画 · 询价表单 |
-| [NexaTech](https://website-demos-iota.vercel.app/nexatech/) | 数字化转型 | 滚动动画 · 视差背景 · 触控轮播 · JSON-LD |
-| [Flavor Theme](https://github.com/chloeeeyan/flavor-starter-theme) | WordPress 主题 | CPT · Customizer API · AJAX · i18n 国际化 |
+统计分析项目集：问卷因子分析、生存分析（Cox 回归）、中介效应检验（Bootstrap）。Python 数据分析全流程：数据清洗 → 建模检验 → 可视化呈现。
 
-👉 **[在线预览完整作品集](https://website-demos-iota.vercel.app)**
+---
+
+### 🛠 我在做什么
+
+**主业** · 数据运营：经营指标分析、异动归因、数据播报体系搭建。日常与多源底表、多维组织架构（省区/分区/小组）、多时间粒度（MTD/WTD/DOD）打交道。
+
+**自动化** · 把重复的数据工作工程化：SUMIFS/XLOOKUP 模板化、条件格式 XML 层修复、Excel 截图流水线、IM 卡片自动播报。
+
+**AI 应用** · AI Agent 工程实践：规则体系设计、Skill 生命周期管理、记忆系统、验证链。另有若干 AI 应用学习项目（已归档，见仓库列表）。
 
 ---
 
 ### 📫 联系我
 
-有开发需求或合作意向，欢迎联系。
+有数据分析、Excel 自动化、Agent 工程方面的交流或合作，欢迎联系。
